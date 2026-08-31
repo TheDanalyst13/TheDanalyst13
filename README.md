@@ -3,7 +3,7 @@
 Loan servicing operations leader with a background in KPI development and real-time performance dashboards, now focused on data analytics.
 
 ## 🛠 Skills
-**Languages:** SQL, Python 
+**Languages:** SQL, Python   
 **Tools:** Tableau  
 **Techniques:** 
 
