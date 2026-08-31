@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dan 👋
 
-<!--
-**TheDanalyst13/TheDanalyst13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring data analyst who likes turning messy data into decisions people can actually act on.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+**Languages:** SQL, Python 
+**Tools:** Tableau  
+**Techniques:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+| Project | Question | Tools | Link |
+|---|---|---|---|
+| Cyclistic Bike-Share: Translating Rider Behavior into Marketing Strategy | How do casual riders and annual members use Cyclistic bikes differently, and how can those differences inform a membership conversion strategy? | SQL, Python, Tableau | (#)
+
+
+## 🚧 Currently Working On
+Deepening the roundtrip findings, including a quantitative breakdown of roundtrip ride percentages by month for both member and casual rider segments.
+Additionally, station-level analysis is being explored to identify high-traffic weekend departure points that could inform targeted marketing touchpoints. These findings will be incorporated into a subsequent version of this report.
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/danielmkimble/) · [Email](#)
