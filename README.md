@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋
 
-Aspiring data analyst who likes turning messy data into decisions people can actually act on.
+Loan servicing operations leader with a background in KPI development and real-time performance dashboards, now focused on data analytics.
 
 ## 🛠 Skills
 **Languages:** SQL, Python 
