@@ -10,7 +10,7 @@ Loan servicing operations leader with a background in KPI development and real-t
 ## 📊 Projects
 | Project | Question | Tools | Link |
 |---|---|---|---|
-| Cyclistic Bike-Share: Translating Rider Behavior into Marketing Strategy | How do casual riders and annual members use Cyclistic bikes differently, and how can those differences inform a membership conversion strategy? | SQL, Python, Tableau | (#)
+| Cyclistic Bike-Share: Translating Rider Behavior into Marketing Strategy | How do casual riders and annual members use Cyclistic bikes differently, and how can those differences inform a membership conversion strategy? | SQL, Tableau | (https://github.com/TheDanalyst13/cyclistic-bikeshare-analysis)
 
 
 ## 🚧 Currently Working On
