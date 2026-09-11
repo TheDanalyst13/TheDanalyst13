@@ -23,5 +23,3 @@ Additionally, station-level analysis is being explored to identify high-traffic 
 
 ## 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/danielmkimble/) · [Email](#)
-
-https://github.com/TheDanalyst13/bookbot
